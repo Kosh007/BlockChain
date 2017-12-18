@@ -1,5 +1,5 @@
 
-Distributed Key-Value Storage built on top
+Distributed Key-Value Storage built on P2P protocol.
 
 It is an eventually consistent key-value database that favours write availability. It’s a faithful implementation of Amazon’s Dynamo, with advanced features such as vector clocks for conflict resolution. JustinDB is also fault-tolerant. Servers can go up or down at any moment with no single point of failure.
 
