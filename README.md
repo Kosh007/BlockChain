@@ -11,3 +11,8 @@ load balancing
 location transparency
 self maintenance
 fault tolerance
+
+
+Authentication, authorization, validation
+
+In case it's not obvious, Justin performs no authentication, authorization, or any validation of input data. Clients must implement those things themselves.
